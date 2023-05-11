@@ -3,7 +3,11 @@ import Characters.Character;
 
 public class App 
 {
-    public static void main(String[] args) throws Exception 
+    /*
+     * Nama: Devan Ferrel
+     * NIM: 225150600111031
+     */
+    public static void main(String[] args) 
     {
         Hero hero1 = new Hero();
         Enemy enemy1 = new Enemy();
