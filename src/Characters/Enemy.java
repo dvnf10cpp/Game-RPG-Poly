@@ -4,6 +4,7 @@ public class Enemy extends Character
 {
     public void move()    
     {
+        System.out.printf("Beware!\n");
         System.out.printf("Enemy use move!\n");
     }
 
